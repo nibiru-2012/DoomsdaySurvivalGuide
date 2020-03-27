@@ -19,6 +19,7 @@
 - [ ] Canned Vegetables
 - [ ] Pilot Biscuit
 - [ ] Salt
+- [ ] Knife
 - [ ] Tissue
 - [ ] Alcohol
 - [ ] Personal Medicine
